@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["promises-hw.b89122e2.css","src/styles.css"],"sourcesContent":["h1 {\n  text-align: center;\n  font-size: 48px;\n}\n/*# sourceMappingURL=promises-hw.b89122e2.css.map */\n","h1 {\r\n    text-align: center;\r\n    font-size: 48px;\r\n}"],"names":[],"version":3,"file":"promises-hw.b89122e2.css.map"}
